@@ -10,4 +10,18 @@ This repository will be used for:
 # Sources
 Here are a few sources that I used as references for this repo
   - Kevin Wood: https://www.youtube.com/watch?v=TMqH2fYhxh0
-  - OpenCV: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+  - OpenCV: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html#
+
+#  Images
+## 1. Histogram Demo
+![Histogram plot](./lesson_pics/histogram_output.png)
+
+
+## 2. Threshold Demo Results
+![Threshold Demo](./lesson_pics/threshold_demo.png)
+
+## 3. Filter Demo
+![Filter Demo](./lesson_pics/filter_demo2.png)
+
+## 4. Convolution Demo
+![Convolution](./lesson_pics/convolution_2D.png)
