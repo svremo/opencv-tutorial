@@ -25,3 +25,6 @@ Here are a few sources that I used as references for this repo
 
 ## 4. Convolution Demo
 ![Convolution](./lesson_pics/convolution_2D.png)
+
+## 5. Canny Edge Demo
+![Canny Demo](lesson_pics/canny_edge_demo.png)
