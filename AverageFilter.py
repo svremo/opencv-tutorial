@@ -103,5 +103,5 @@ def gaussianKernel3DPlot():
 
 
 if __name__ == '__main__':
-    gaussianKernel3DPlot()
+    #gaussianKernel3DPlot()
     filterDemo()

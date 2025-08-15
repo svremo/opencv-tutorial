@@ -10,7 +10,7 @@ def convertToGrayscale():
     #    Option #1: what is supported automatically in cv.imread
     #    Option #2: Using average
     root = os.getcwd()
-    imgPath = os.path.join(root, 'picture\\car2.jpg')
+    imgPath = os.path.join(root, 'picture\\tesla_car.png')
 
     imgOrig = cv.imread(imgPath)
     imgGrayscale = cv.imread(imgPath, cv.IMREAD_GRAYSCALE) #read as GS
@@ -82,5 +82,5 @@ def grayScaleVideo():
     cv.destroyAllWindows
     
 if __name__ == '__main__':
-    #convertToGrayscale()
-    grayScaleVideo()
+    convertToGrayscale()
+    #grayScaleVideo()
