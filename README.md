@@ -31,3 +31,6 @@ Here are a few sources that I used as references for this repo
 
 ## 6. Hough Line 
 ![Hough Line](lesson_pics/hough_line_overlay.png)
+
+## 7. Harris Corner Detection
+![Harris Corner](lesson_pics/harris_corner.png)
